@@ -1,0 +1,12 @@
+/Users/macbookpro/Desktop/Jag/VSCode/CodeChef/obj/Debug/netcoreapp3.1/CodeChef.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/Jag/VSCode/CodeChef/obj/Debug/netcoreapp3.1/CodeChef.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Jag/VSCode/CodeChef/obj/Debug/netcoreapp3.1/CodeChef.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Jag/VSCode/CodeChef/obj/Debug/netcoreapp3.1/CodeChef.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Jag/VSCode/CodeChef/bin/Debug/netcoreapp3.1/CodeChef.deps.json
+/Users/macbookpro/Desktop/Jag/VSCode/CodeChef/bin/Debug/netcoreapp3.1/CodeChef.runtimeconfig.json
+/Users/macbookpro/Desktop/Jag/VSCode/CodeChef/bin/Debug/netcoreapp3.1/CodeChef.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Jag/VSCode/CodeChef/bin/Debug/netcoreapp3.1/CodeChef.dll
+/Users/macbookpro/Desktop/Jag/VSCode/CodeChef/bin/Debug/netcoreapp3.1/CodeChef.pdb
+/Users/macbookpro/Desktop/Jag/VSCode/CodeChef/obj/Debug/netcoreapp3.1/CodeChef.dll
+/Users/macbookpro/Desktop/Jag/VSCode/CodeChef/obj/Debug/netcoreapp3.1/CodeChef.pdb
+/Users/macbookpro/Desktop/Jag/VSCode/CodeChef/obj/Debug/netcoreapp3.1/CodeChef.genruntimeconfig.cache
